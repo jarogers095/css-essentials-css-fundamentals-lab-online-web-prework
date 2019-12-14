@@ -9,6 +9,12 @@ header {
   text-align: center;
 }
 
+header nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
 #featured-property img {
   display: block;
   margin-left: auto;
